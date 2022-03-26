@@ -8,6 +8,7 @@ This is a breakdown of the Kickstarter campaign to analyze data based on locatio
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+![alt text](http://url/to/img.png)
 
 ### Analysis of Outcomes Based on Goals
 
